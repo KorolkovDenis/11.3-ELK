@@ -25,18 +25,18 @@
 
 Файл docker-compose.yaml
 
-![screen1](https://github.com/KorolkovDenis/)
+![screen1](https://github.com/KorolkovDenis/11.3-ELK/blob/main/screenshots/screen1.jpg)
 
 Результат команды:
 ```
 curl -X GET 'localhost:9200/_cluster/health?pretty'
 ```
 
-![screen2](https://github.com/KorolkovDenis/)
+![screen2](https://github.com/KorolkovDenis/11.3-ELK/blob/main/screenshots/screen2.jpg)
 
 Зашел через веб-морду: localhost:9200
 
-![screen3](https://github.com/KorolkovDenis/)
+![screen3](https://github.com/KorolkovDenis/11.3-ELK/blob/main/screenshots/screen3.jpg)
 
 ---
 
@@ -52,7 +52,7 @@ curl -X GET 'localhost:9200/_cluster/health?pretty'
 
 Выполняем запрос: GET /_cluster/health?pretty*
 
-![screen4](https://github.com/KorolkovDenis/)
+![screen4](https://github.com/KorolkovDenis/11.3-ELK/blob/main/screenshots/screen4.jpg)
 
 ---
 
